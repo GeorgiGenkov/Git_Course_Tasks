@@ -7,8 +7,10 @@ Additionally, the course introduces popular Git GUI clients like GitHub Desktop,
 
 ## Homework 1:
 Setting up SSH for Git
+
 Managing and clearing up Branches
 
 ## Homework 2:
 Merge conflict resolution
+
 Handling conflicts during Rebasing
