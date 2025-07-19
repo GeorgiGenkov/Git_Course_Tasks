@@ -14,3 +14,10 @@ Managing and clearing up Branches
 Merge conflict resolution
 
 Handling conflicts during Rebasing
+
+## Homework 3:
+Stashing and Selective restore
+
+Recovering uncommitted changes
+
+Moving multiple commits between branches
