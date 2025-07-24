@@ -21,3 +21,10 @@ Stashing and Selective restore
 Recovering uncommitted changes
 
 Moving multiple commits between branches
+
+## Homework 4:
+Custom Git hooks for automated workflow
+
+Rewriting and cleaning up Git history
+
+Using UI tools for Git tasks
